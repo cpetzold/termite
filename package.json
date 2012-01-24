@@ -1,0 +1,18 @@
+{
+  "author": "Conner Petzold <cpetzold@gmail.com> (http://the0th.com)",
+  "name": "track",
+  "description": "NodeJS bittorrent tracker",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.4.12"
+  },
+  "dependencies": {
+    "redis-node": "0.4.x",
+    "bncode": "0.2.x",
+    "underscore": "1.3.x"
+  },
+  "devDependencies": {}
+}
