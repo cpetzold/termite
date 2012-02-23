@@ -1,4 +1,4 @@
-**termite** (**t**ermite **e**ncourages **r**real **m**easures **i**n **t**racking **e**fficiency) is a node.js http/udp bittorrent tracker.
+**termite** (**t**ermite **e**ncourages **r**eal **m**easures **i**n **t**racking **e**fficiency) is a node.js http/udp bittorrent tracker.
 
 ## Summary
 
